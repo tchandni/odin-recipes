@@ -1,0 +1,1 @@
+This project is a recipe book. It will consist a main index page, linking to a few recipes 
